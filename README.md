@@ -3,7 +3,7 @@
 Esto contiene todo lo que necesitas para ejecutar tu aplicación localmente.
 
 Ver tu aplicación en:
-[https://devops-network-master.netlify.app/](DevOps-Network-Master)
+[DevOPs-Network-Master](https://devops-network-master.netlify.app/)
 
 ## Ejecutar localmente
 
