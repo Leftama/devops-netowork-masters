@@ -1,4 +1,4 @@
-# Ejecutar y desplegar tu aplicación en AI Studio
+# Ejecutar y desplegar tu aplicación
 
 Esto contiene todo lo que necesitas para ejecutar tu aplicación localmente.
 
